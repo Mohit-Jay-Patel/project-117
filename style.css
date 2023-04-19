@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(158, 229, 247);
+}
+.header_div{
+    color: rgb(90, 0, 194);
+}
+.header_div p{
+    color: red;
+    font-size: 12px;
+    font-weight: bold;
+}
+.copy_right_footer{
+    position: fixed;
+    background-color: lightpink;
+    color: darkslateblue;
+    font-weight: bold;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
